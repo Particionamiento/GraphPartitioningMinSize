@@ -1,4 +1,4 @@
-# # Associated data and code
+# Associated data and code
 
 The files in this code repository are updated and commented versions of the code used for the following work:
 
