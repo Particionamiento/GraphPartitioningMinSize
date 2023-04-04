@@ -13,5 +13,5 @@ Jupyter notebooks with code for the Graph Partitioning Problem in Connected Comp
 * [`M1_VI.py`](M1_VI.py): First MIP model (M<sub>1</sub>) with valid inequalities (Theorems 2 to 9).
  Second MIP model (M<sub>2</sub>).
 * [`M2_VI.py`](M2_VI.py): Second MIP model (M<sub>2</sub>) with valid inequalities (Theorems 2 to 9).
-* [`CG_VIs_30.py`](CG_VIs_30.py): Column Generation model (M<sub>3</sub>) with Columns Heuristic (Algorithm 1) and Cuts (Theorems 12 & 13).
+* [`CG_VIs_30.py`](CG_VIs_30.py) and [`CG_VIs_100.py`](CG_VIs_100.py): Column Generation model (M<sub>3</sub>) with Columns Heuristic (Algorithm 1) and Cuts (Theorems 12 & 13).
 * [`Instancias.ipynb`](Instancias.ipynb): Instance generator.
