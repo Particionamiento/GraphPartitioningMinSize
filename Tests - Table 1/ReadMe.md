@@ -1,6 +1,6 @@
 # Associated data and code
 
-In this folder, the code and results for Table 1 are included. For questions regarding this code, contact Mishell Cordero at [mishelle.cordero@epn.edu.ec](mailto:mishelle.cordero@epn.edu.ec) / [misbcord@espol.edu.ec](mailto:misbcord@espol.edu.ec)
+In this folder, the code and results for Table 1 are included. For questions regarding this code, contact Mishelle Cordero at [mishelle.cordero@epn.edu.ec](mailto:mishelle.cordero@epn.edu.ec) / [misbcord@espol.edu.ec](mailto:misbcord@espol.edu.ec)
 
 ## Files in this folder
 
