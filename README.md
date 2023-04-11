@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/459783859.svg)](https://zenodo.org/badge/latestdoi/459783859)
+
 # Associated data and code
 
 The files in this code repository are updated and commented versions of the code used for the following work:
