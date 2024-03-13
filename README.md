@@ -23,6 +23,6 @@ Jupyter notebooks with code for graph partitioning in connected components with 
 
 The [`Instances`](Instances) subfolder contains each instance with a name identifying its generator, number of nodes, number of edges, expected \(k\), and expected \(\alpha\) (note, these last two can be overwritten).
 
-The [`Tests - Table 1`](Tests%20-%20Table%201) folder contains the code and results for Table 1.
+The [`Tests`](Tests) folder contains comparative tests across models.
 
-The [`Tests - Table 2`](Tests%20-%20Table%202) folder contains the code and results for Table 2.
+The [`Comparison - Spectral Methods`](Comparison%20-%20Spectral%20Methods) folder contains code contrasting two spectral techniques for column generation.
